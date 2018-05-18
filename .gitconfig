@@ -4,4 +4,4 @@ email = lilingdan@baie.com.cn
 [push]
 default = matching
 [core]
-excludesfile = ./gitignore_global
+excludesfile = ./.gitignore_global
