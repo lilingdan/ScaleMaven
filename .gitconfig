@@ -1,0 +1,7 @@
+[user]
+name = lld
+email = lilingdan@baie.com.cn
+[push]
+default = matching
+[core]
+excludesfile = ./gitignore_global
